@@ -132,4 +132,4 @@ Enabled CloudWatch Logs for ECS tasks
 
 
 
-I'm a Cloud Security Engineer interested in secure deployments, DevSecOps, and scalable cloud architecture. Connect with me on [LinkedIn](https://www.linkedin.com/in/uchime-victor-2b5b3131b/).
+I'm a Cloud Security Engineer interested in secure deployments, DevSecOps, and scalable cloud architecture. Connect with me on [LinkedIn](www.linkedin.com/in/uchime-victor-2b5b3131b).
