@@ -124,7 +124,8 @@ Enabled CloudWatch Logs for ECS tasks
 
 
     here is an overall diagram of my project
-    ![ChatGPT Image Apr 30, 2025, 06_45_26 PM](https://github.com/user-attachments/assets/c7872285-d5ce-45a9-9550-266af59299c9)
+   ![diagram](https://github.com/user-attachments/assets/95a2ae3c-212a-4675-aa6f-ec3c146b1013)
+
 
     here is the pic of the website 
     <img width="957" alt="hosted website" src="https://github.com/user-attachments/assets/bbe35d02-aa39-4689-8fc0-060a90129e34" />
