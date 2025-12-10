@@ -1,4 +1,5 @@
-                                         # Full-Stack Secure Deployment on AWS
+
+# Full-Stack Secure Deployment on AWS
                                          
 React + Django app deployed to AWS using Docker, ECS, ECR, and Application Load Balancer — with a security-first architecture.
 
@@ -123,12 +124,14 @@ Enabled CloudWatch Logs for ECS tasks
  Considered setting up GuardDuty or AWS Config for threat monitoring
 
 
-    here is an overall diagram of my project
-   ![diagram](https://github.com/user-attachments/assets/95a2ae3c-212a-4675-aa6f-ec3c146b1013)
+here is an overall diagram of my project
+  
+  ![diagram](https://github.com/user-attachments/assets/95a2ae3c-212a-4675-aa6f-ec3c146b1013)
 
 
-    here is the pic of the website 
-    <img width="957" alt="hosted website" src="https://github.com/user-attachments/assets/bbe35d02-aa39-4689-8fc0-060a90129e34" />
+here is the pic of the website 
+
+<img width="957" alt="hosted website" src="https://github.com/user-attachments/assets/bbe35d02-aa39-4689-8fc0-060a90129e34" />
 
 
 
